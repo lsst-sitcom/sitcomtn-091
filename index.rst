@@ -20,7 +20,6 @@ Guidelines for Operations
 =========================
 
 Survey mode is intended to be the primary mode for Auxiliary Telescope (AuxTel) operations. 
-It is a passive mode of operations, with nighttime observations driven by the Scheduler with minimal staff intervention. 
 The central tenant of operations in this mode is that the AuxTel operations are secondary to any responsibilities the summit staff may have related to Simonyi Survey Telescope operations. 
 
 This results in the following guidelines for operations in survey mode: 
@@ -75,7 +74,7 @@ If Simonyi Survey telescope responsibilities prevent the Daytime Shift from comp
 
 Flex/Nighttime Observing Specialist Shift
 -----------------------------------------
-The Nighttime Shift is responsible for passively monitoring AuxTel status throughout the night. 
+The Nighttime Shift is responsible for monitoring AuxTel status throughout the night. 
 This does not include monitoring data quality, only operational status.
 Images can be flagged for poor quality on a best-effort basis when available. 
 If a fault is encountered during the night, it should be recovered when appropriate. 
@@ -96,7 +95,7 @@ All times are given in local (Chile) time.
 - *15:00* : Progress on AuxTel Dome daytime work is assessed by Daytime Observing Specialist. Readiness for daytime checkouts, venting, and calibrations is determined. If it is determined we are unable to proceed with daytime checkouts, calibrations and/or venting, they may be skipped entirely.
 - *16:00* : Afternoon checkout, calibrations, and/or venting scripts are queued up by Daytime Specialist. AuxTel dome is prepared for venting. 
 - *17:30* : Start of night scripts (prepare_for_onsky, enable scheduler, resume scheduler) are queued up by Daytime Specialist. These can be added directly to the queue at any time following daytime activities, including before heading down for dinner.
-- *18:30 to 06:00* : AuxTel is operated in scheduler-driven mode, with passive monitoring by on-shift specialist. Control of AuxTel is handed over to Flex/Nighttime Observing Specialist at shift change boundary.
+- *18:30 to 06:00* : AuxTel is operated in scheduler-driven mode and monitored by on-shift specialist. Control of AuxTel is handed over to Flex/Nighttime Observing Specialist at shift change boundary.
 
 .. Make in-text citations with: :cite:`bibkey`.
 .. Uncomment to use citations
